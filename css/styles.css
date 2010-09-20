@@ -1,0 +1,128 @@
+body {
+	font-family: Georgia, serif;
+	color: #fff;
+	text-align: center;
+	background: #002a54;
+	margin: 0;
+	padding: 0;
+}
+
+body#modulePage7300148, body.content-editable {
+	/* background: #005742; */
+	background: transparent;
+}
+
+#canvasWrapper {
+	/* background: #005742; */
+	background: transparent;
+	width: 100%;
+}
+
+#main, #canvas {
+	width: 800px;
+	text-align: left;
+	margin: 0 auto;
+	background: #fecb76;
+}
+
+#main {
+	background: #005742;
+}
+
+#flash_header_area {
+	border-bottom: 6px solid #70b4f3;
+}
+
+#body_area {
+	display: none;
+	padding: 15px 40px;
+	background: transparent url(../course_15aiden_250w.jpg) no-repeat 500px 20px;
+}
+
+h1, h2, h3, h4, h5, .formCaption {
+	color: #70b4f3 !important;
+	font-weight: normal;
+}
+
+div.optionRow,
+label {
+	display: block;
+	position: relative;
+	padding: 12px 0;
+	text-indent: 12px;
+}
+
+input.text,
+textarea,
+label input[type=input] {
+	padding: 4px;
+	width: 250px;
+	background: #fff;
+	border: 1px solid #003D79;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Tahoma, Arial, sans-serif;
+}
+
+label input[type=input] {
+	position: absolute;
+	left: 120px;
+}
+
+.fieldRequiredStar {
+	color: #fff !important;
+}
+#big_image {
+	height: 467px;
+	background: transparent url(../course_cb_14pano_700px.jpg) no-repeat center center;
+}
+#form-frame {
+	border: 0;
+	overflow: hidden;
+}
+
+.error-text, .error-text a:link, .error-text a:visited, .error-text a:active, .error-text a:hover {
+	color: #cc0;
+}
+
+.body {
+	color: #fff;
+}
+
+.body .formCaption,
+.body h3 {
+	font-weight: normal;
+}
+
+#content p a {
+	color: #f90;
+}
+
+#sslightbox_imgholder {
+	display: none;
+}
+
+.form-body .fieldContainerActive,
+.form-body .fieldContainer {
+	color: #003d79;
+	font-family: Tahoma, Arial, sans-serif;
+}
+
+.form-body li {
+}
+
+input.text {
+	padding: 6px 8px;
+}
+
+div.header {
+	margin: 0;
+}
+
+#contentWrapper {
+	width: 800px;
+}
+
+.notice-box {
+	padding: 0 24px;
+}
