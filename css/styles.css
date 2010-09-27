@@ -126,3 +126,17 @@ div.header {
 .notice-box {
 	padding: 0 24px;
 }
+
+.form-body #formField1Subtitle {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#formField3 .optionRow .fieldHelp {
+	padding: 0 0 0 8px;
+}
+
+.formErrorMessage.error-text,
+.form-body .error-text {
+	color: #900;
+}
