@@ -140,7 +140,6 @@ label input[type=input] {
 .form-body li {
 }
 
-
 input.text {
 	padding: 6px 8px;
 }
@@ -169,4 +168,25 @@ div.header {
 .formErrorMessage.error-text,
 .form-body .error-text {
 	color: #900;
+}
+
+/* CUSTOM FORM FIELD LAYOUT */
+li#formField2,
+li#formField3,
+li#formField4,
+li#formField5 {
+	float: left;
+	width: 300px;
+}
+li#formField4,
+li#formField6 {
+	clear: both;
+}
+
+li#formField6 .fieldObjects .optionRow {
+	float: left;
+}
+
+.formErrorMessage {
+	clear: both;
 }
